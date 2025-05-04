@@ -11,7 +11,7 @@ This project is a visually stunning, interactive rotating color wheel built with
 - **Responsive & Modern Design:** Looks great on all screen sizes.
 
 ## Demo
-View the live demo on GitHub Pages: 
+View the live demo: https://wheel.goyalshivansh.me/
 
 ## How to Use
 1. **Clone or Download:**
